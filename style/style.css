@@ -1,0 +1,7 @@
+
+
+body {
+    background: rgb(65,65,65);
+    background: linear-gradient(90deg, rgb(43, 42, 42) 0%, rgba(46,46,46,1) 29%, rgba(31,31,31,1) 55%, rgba(0,0,0,1) 100%);
+    background-image: url("../images/bg/bg.jpg");
+  }
